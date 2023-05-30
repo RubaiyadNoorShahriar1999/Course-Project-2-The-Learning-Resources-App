@@ -1,0 +1,11 @@
+<template>
+  <li>
+    <div>
+      <header>
+        <h3></h3>
+        <button>Delete</button>
+      </header>
+    </div>
+  </li>
+</template>
+<script></script>
