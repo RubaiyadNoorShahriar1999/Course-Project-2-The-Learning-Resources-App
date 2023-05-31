@@ -6,7 +6,8 @@ The Learning Resources App
     1. Adding Resources (Custom component, Named Slots, Refs, Provide-Inject, Custom Styling)
     2. Deleting Resources (Custom component, Named Slots, Props, Emits, Provide-Inject, Custom Styling)
     3. Custom Popup for Invalid insertion (Named Slots, Emits,Custom Styling)
-    4. Followed Vue Style Guide, Fallthrough attribute concept, Prop Drilling concept, Keep-alive concept, Teleport concept
+    4. Followed Vue Style Guide, Fallthrough attribute concept, Prop Drilling concept, 
+       Keep-alive concept, Teleport concept
    
 
 <h2>To run this project</h2>
