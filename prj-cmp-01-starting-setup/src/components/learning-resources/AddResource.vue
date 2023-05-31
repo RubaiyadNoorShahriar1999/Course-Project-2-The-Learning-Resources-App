@@ -9,7 +9,7 @@
       <p>Please check all your inputs</p></template
     >
     <template #actions>
-      <base-button @click="confirmError"> Okay</base-button></template
+      <base-button @click="confirmError">Okay</base-button></template
     ></base-dialog
   >
   <base-card>
@@ -37,6 +37,7 @@
     </form></base-card
   >
 </template>
+
 <script>
 export default {
   inject: ['addResource'],
